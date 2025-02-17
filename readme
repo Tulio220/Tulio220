@@ -4,45 +4,38 @@
 
 ## Sobre Mim
 
-Sou um desenvolvedor web dedicado, com forte expertise em criar interfaces responsivas e dinâmicas. Com experiência consolidada em HTML, CSS e JavaScript, foco na excelência e na entrega de soluções inovadoras e de alta qualidade.
+Desenvolvedor web focado em criar interfaces modernas, responsivas e intuitivas. Especializado em **HTML**, **CSS** e **JavaScript**, sempre estou em busca de soluções inovadoras que elevem a experiência do usuário e a performance das aplicações.
 
 ## Tecnologias
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="150" style="margin-right: 20px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="150" style="margin-right: 20px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="150"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="150" style="margin: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="150" style="margin: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="150" style="margin: 10px;"/>
 </div>
 
-## Experiência Profissional
+## Cards
 
-- **Desenvolvedor Front-end**  
-  *Empresa XYZ* &mdash; 2019 - Presente  
-  - Desenvolvimento de interfaces web responsivas utilizando HTML, CSS e JavaScript.
-  - Colaboração com equipes multidisciplinares para a entrega de soluções inovadoras e personalizadas.
+<div align="center">
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tulioumbelino&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tulioumbelino&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-- **Projetos Freelance**  
-  Diversos clientes &mdash; 2017 - 2019  
-  - Criação e manutenção de sites e aplicações web com foco em performance e usabilidade.
+## Badges
 
-## Projetos Relevantes
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</div>
 
-- [Projeto A](https://github.com/tulioumbelino/projetoA)  
-  Aplicação web interativa para gerenciamento de tarefas com design moderno e responsivo.
-- [Projeto B](https://github.com/tulioumbelino/projetoB)  
-  Site institucional desenvolvido com foco em acessibilidade e experiência do usuário.
+## Animação "Cobrinha"
 
-## Estatísticas do GitHub
-
-![Túlio's GitHub stats](https://github-readme-stats.vercel.app/api?username=tulioumbelino&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img src="https://github.com/ashutosh00710/github-readme-snake/blob/master/line.svg?raw=true" alt="Snake Animation" width="100%"/>
+</div>
 
 ## Contato
 
-Fique à vontade para entrar em contato:  
-- **Email:** [seuemail@exemplo.com](mailto:seuemail@exemplo.com)  
+- **Email:** [seuemail@exemplo.com](mailto:seuemail@exemplo.com)
 - **LinkedIn:** [Túlio Umbelino Barros](https://www.linkedin.com/in/tulio-umbelino-barros)
-
----
-
-> "A tecnologia transforma o mundo. Eu transformo tecnologia em soluções de alto impacto."  
-> *Túlio Umbelino Barros*
