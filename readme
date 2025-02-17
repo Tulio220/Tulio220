@@ -1,38 +1,41 @@
 # Olá, eu sou o Túlio Umbelino Barros
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Túlio-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tulio-umbelino-barros) [![GitHub](https://img.shields.io/badge/GitHub-Tulio%20Umbelino-black?style=flat&logo=github)](https://github.com/tulioumbelino)
+<div align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-Túlio-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/GitHub-Tulio%20Umbelino-black?style=flat&logo=github" alt="GitHub" />
+</div>
 
 ## Sobre Mim
 
-Desenvolvedor web focado em criar interfaces modernas, responsivas e intuitivas. Especializado em **HTML**, **CSS** e **JavaScript**, sempre estou em busca de soluções inovadoras que elevem a experiência do usuário e a performance das aplicações.
+Sou um desenvolvedor web dedicado a criar interfaces modernas, responsivas e intuitivas. Especializado em **HTML**, **CSS** e **JavaScript**, estou sempre em busca de soluções inovadoras que melhorem a experiência do usuário e a performance das aplicações.
 
 ## Tecnologias
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="150" style="margin: 10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="150" style="margin: 10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="150" style="margin: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="150" style="margin: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="150" style="margin: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="150" style="margin: 10px;" />
 </div>
 
 ## Cards
 
 <div align="center">
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tulioumbelino&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tulioumbelino&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=tulioumbelino&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulioumbelino&layout=compact&theme=default" alt="Top Langs" />
 </div>
 
 ## Badges
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </div>
 
 ## Animação "Cobrinha"
 
 <div align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-snake/blob/master/line.svg?raw=true" alt="Snake Animation" width="100%"/>
+  <img src="https://github.com/ashutosh00710/github-readme-snake/blob/master/line.svg?raw=true" alt="Snake Animation" width="100%" />
 </div>
 
 ## Contato
