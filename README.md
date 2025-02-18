@@ -38,6 +38,8 @@ Ferramentas: **VSCode**, **Git**, **GitHub**, **Eclipse**
 
 ---
 
+<img src="https://cdn-app-privally-io.s3.amazonaws.com/env/suite/images/treatment/central/0001/00000389/lightLogo/20210616193927.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tulio220&show_icons=true&theme=dark)
