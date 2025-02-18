@@ -38,13 +38,13 @@ Ferramentas: **VSCode**, **Git**, **GitHub**, **Eclipse**
 
 ---
 
-## ⭐ GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tulio220&show_icons=true&theme=dark)
 
 ---
 
-## 🌟 Experiência de trabalho
+## Experiência de trabalho
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
@@ -57,7 +57,3 @@ Projetos em destaque: Automação de processos internos, otimização de sistema
 <br/>
 
 ---
-
-<marquee behavior="scroll" direction="left" scrollamount="5">
-  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" alt="Snake Animation" style="width:150px;" />
-</marquee>
