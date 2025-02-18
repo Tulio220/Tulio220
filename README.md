@@ -53,9 +53,11 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Desenvolvedor Web**  
 [**Laticínios Aviação - Gonçalves Salles**]() • Full-time  
 Linguagens & Tecnologias: `JavaScript`, `HTML`, `CSS`  
-Projetos em destaque: Automação de processos internos, otimização de sistemas web
+Projetos em destaque: Automação de processos internos, otimização de sistemas web  
 <br/>
 
 ---
 
-![Snake animation](https://github.com/Tulio220/Tulio220/blob/output/github-contribution-grid-snake.svg)
+<marquee behavior="scroll" direction="left" scrollamount="5">
+  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" alt="Snake Animation" style="width:150px;" />
+</marquee>
