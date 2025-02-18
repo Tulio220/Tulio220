@@ -47,7 +47,8 @@ Ferramentas: **VSCode**, **Git**, **GitHub**, **Eclipse**
 ## Experiência de trabalho
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-<img src="https://cdn-app-privally-io.s3.amazonaws.com/env/suite/images/treatment/central/0001/00000389/lightLogo/20210616193927.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://cdn-app-privally-io.s3.amazonaws.com/env/suite/images/treatment/central/0001/00000389/lightLogo/20210616193927.png" alt="Ilustração de um computador" style="width:400px; float:right;" />
+
 
 
 **Desenvolvedor Web**  
