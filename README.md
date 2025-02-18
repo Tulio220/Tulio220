@@ -56,5 +56,5 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 Linguagens & Tecnologias: `JavaScript`, `HTML`, `CSS`  
 Projetos em destaque: Automação de processos internos, otimização de sistemas web  
 <br/>
-
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.compreaviacao.com.br%2Fmanteiga&psig=AOvVaw2WHMtxXR0jPTUYFv-_wfb7&ust=1739924148900000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCJiF0dv4y4sDFQAAAAAdAAAAABAE"/>
 ---
