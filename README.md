@@ -1,10 +1,8 @@
 ## Olá, meu nome é Tulio Umbelino Barros!
 
-Sou um desenvolvedor web apaixonado por tecnologia, sempre em busca de inovação e excelência. Possuo experiência sólida em diversas tecnologias e estou constantemente aprimorando minhas habilidades para entregar resultados de alta qualidade.
+Sou desenvolvedor web iniciante, apaixonado por tecnologia e sempre buscando aprender e melhorar. Estou começando a explorar diversas tecnologias e a desenvolver minhas habilidades para criar soluções de qualidade.
 
-🔭 Atualmente, estou trabalhando na empresa **Laticínios Aviação - Gonçalves Salles**, atuando em projetos desafiadores que impulsionam a transformação digital.
-
-💬 Sinta-se à vontade para entrar em contato e discutir ideias ou oportunidades de colaboração.
+🔭 Atualmente, estou trabalhando na empresa Laticínios Aviação - Gonçalves Salles, em projetos que contribuem para a transformação digital..
 
 📧 Email: [tuliobarros830@gmail.com](mailto:tuliobarros830@gmail.com)
 
