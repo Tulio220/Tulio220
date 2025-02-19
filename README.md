@@ -15,9 +15,6 @@ Sou desenvolvedor web iniciante, apaixonado por tecnologia e sempre buscando apr
   Diga o que você está fazendo no momento, se trabalha ou estuda.
 </p>
 
-Faça uma breve apresentação sua com o seu nome e não esqueça a sua stack.  
-Diga o que você está fazendo no momento, se trabalha ou estuda.
-
 Linguagens: **JavaScript**, **HTML**, **CSS**, **SQL (Básico)**
 
 Ferramentas: **VSCode**, **Git**, **GitHub**, **Eclipse**
