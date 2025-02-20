@@ -38,8 +38,6 @@ Ferramentas: **VSCode**, **Git**, **GitHub**, **Eclipse**
 ---
 
 ## Experiência de trabalho
-
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 <img src="https://cdn-app-privally-io.s3.amazonaws.com/env/suite/images/treatment/central/0001/00000389/lightLogo/20210616193927.png" alt="Ilustração de um computador" style="width:400px; float:right;" />
 
 
@@ -49,5 +47,3 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 Linguagens & Tecnologias: `JavaScript`, `HTML`, `CSS`  
 Projetos em destaque: Automação de processos internos, otimização de sistemas web  
 <br/>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.compreaviacao.com.br%2Fmanteiga&psig=AOvVaw2WHMtxXR0jPTUYFv-_wfb7&ust=1739924148900000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCJiF0dv4y4sDFQAAAAAdAAAAABAE"/>
----
